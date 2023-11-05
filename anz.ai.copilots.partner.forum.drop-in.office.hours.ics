@@ -19,10 +19,10 @@ TZOFFSETTO:+1300
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-ATTENDEE;CN="ANZ AI & Copilots Partner Team";ROLE=OPT-PARTICIPANT;RSVP=FALS
-	E:mailto:anzaicopilots@microsoft.com
+ATTENDEE;CN="ANZ AI & Copilots Partner Team";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	:mailto:anzaicopilots@microsoft.com
 CLASS:PUBLIC
-CREATED:20231103T012134Z
+CREATED:20231105T215610Z
 DESCRIPTION: \n	\nANZ AI & Copilots Partner Forum: Drop-in office hours\n	\
 	nFortnightly drop-in office hours for Microsoft Partners in Australia & Ne
 	w Zealand. Ask questions and get guidance from local partner tech team exp
@@ -94,48 +94,45 @@ DESCRIPTION: \n	\nANZ AI & Copilots Partner Forum: Drop-in office hours\n	\
 	w. To learn how to manage your contact preferences for other parts of Micr
 	osoft\, please read our Privacy Statement <https://privacy.microsoft.com/e
 	n-gb/privacystatement> .\n \nMicrosoft Australia Pty Limited\, L24–30\, 
-	1 Denison St\, North Sydney NSW 2060 Australia\n \n \n____________________
-	____________________________________________________________ \nMicrosoft T
-	eams meeting \nJoin on your computer\, mobile app or room device \nClick h
-	ere to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ame
-	eting_YmYxNTMyNDUtYmRjZC00NDJjLWI1NmMtNGVhN2Y0ZGJiOTM5%40thread.v2/0?conte
-	xt=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3
-	a%22395a309a-7b10-4aa8-83ab-4f4dbcf29616%22%7d>  \nMeeting ID: 454 682 726
-	 451 \nPasscode: NGrqZx \nDownload Teams <https://www.microsoft.com/en-us/
-	microsoft-teams/download-app>  | Join on the web <https://www.microsoft.co
-	m/microsoft-teams/join-a-meeting> \nOr call in (audio only) \n+1 323-849-4
-	874\,\,444340151# <tel:+13238494874\,\,444340151#>    United States\, Los 
-	Angeles \nPhone Conference ID: 444 340 151# \nFind a local number <https:/
-	/dialin.teams.microsoft.com/8551f4c1-bea3-441a-8738-69aa517a91c5?id=444340
-	151>  | Reset PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing
-	>  \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <http
-	s://teams.microsoft.com/meetingOptions/?organizerId=395a309a-7b10-4aa8-83a
-	b-4f4dbcf29616&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&threadId=19_m
-	eeting_YmYxNTMyNDUtYmRjZC00NDJjLWI1NmMtNGVhN2Y0ZGJiOTM5@thread.v2&messageI
-	d=0&language=en-NZ>  \n___________________________________________________
-	_____________________________ \n
+	1 Denison St\, North Sydney NSW 2060 Australia\n \n \n \n \n______________
+	__________________________________________________________________ \nMicro
+	soft Teams meeting \nJoin on your computer\, mobile app or room device \nC
+	lick here to join the meeting <https://aka.ms/anzaicopilotspartnerforum/jo
+	inmeeting>  \nMeeting ID: 213 385 865 701 \nPasscode: cDkkgg \nDownload Te
+	ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join
+	 on the web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \nO
+	r call in (audio only) \n+1 323-849-4874\,\,727413709# <tel:+13238494874\,
+	\,727413709#>    United States\, Los Angeles \nPhone Conference ID: 727 41
+	3 709# \nFind a local number <https://dialin.teams.microsoft.com/8551f4c1-
+	bea3-441a-8738-69aa517a91c5?id=727413709>  | Reset PIN <https://dialin.tea
+	ms.microsoft.com/usp/pstnconferencing>  \nLearn More <https://aka.ms/JoinT
+	eamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOption
+	s/?organizerId=395a309a-7b10-4aa8-83ab-4f4dbcf29616&tenantId=72f988bf-86f1
+	-41af-91ab-2d7cd011db47&threadId=19_meeting_NTBhOWQwZDUtOWYwOS00ZmU2LWFlMj
+	ItNDQ5ZTA1ZDllNTdh@thread.v2&messageId=0&language=en-US>  \n______________
+	__________________________________________________________________ \n \n
 DTEND;TZID="New Zealand Standard Time":20231115T150000
-DTSTAMP:20231103T011848Z
+DTSTAMP:20231105T215220Z
 DTSTART;TZID="New Zealand Standard Time":20231115T140000
-LAST-MODIFIED:20231103T012134Z
+LAST-MODIFIED:20231105T215610Z
 LOCATION:https://aka.ms/anzaicopilotspartnerforum/joinmeeting
 ORGANIZER;CN="Daniel Scott-Raynsford":mailto:Daniel.ScottRaynsford@microsof
 	t.com
 PRIORITY:5
-RECURRENCE-ID;TZID="New Zealand Standard Time":20231227T140000
-SEQUENCE:37
+RRULE:FREQ=WEEKLY;COUNT=17;INTERVAL=2;BYDAY=WE;WKST=MO
+SEQUENCE:0
 SUMMARY;LANGUAGE=en-us:ANZ AI & Copilots Partner Forum: Drop-in office hour
 	s
 TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E008000000003AFC68637208DA01000000000000000
-	010000000D233C282D71AFA459450BBDEB9FFE5B4
+UID:040000008200E00074C5B7101A82E008000000000068546B9B10DA01000000000000000
+	010000000D9C9A67A7E0F4D459AEEB4217244844D
 X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
 	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
 	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
 	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=ProgId c
 	ontent=Word.Document><meta name=Generator content="Microsoft Word 15"><met
 	a name=Originator content="Microsoft Word 15"><link rel=File-List href="ci
-	d:filelist.xml@01DA0E61.0C425020"><!--[if gte mso 9]><xml>\n<o:OfficeDocum
+	d:filelist.xml@01DA109F.D9CA9DF0"><!--[if gte mso 9]><xml>\n<o:OfficeDocum
 	entSettings>\n<o:AllowPNG/>\n</o:OfficeDocumentSettings>\n</xml><![endif]-
 	-><!--[if gte mso 9]><xml>\n<w:WordDocument>\n<w:SpellingState>Clean</w:Sp
 	ellingState>\n<w:GrammarState>Clean</w:GrammarState>\n<w:DocumentKind>Docu
@@ -620,479 +617,488 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	rent:""\;\n	margin:0in\;\n	mso-pagination:widow-orphan\;\n	font-size:11.0p
 	t\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-font-family:Aptos\
 	;}\na:link\, span.MsoHyperlink\n	{mso-style-noshow:yes\;\n	mso-style-prior
-	ity:99\;\n	color:blue\;\n	text-decoration:underline\;\n	text-underline:sin
-	gle\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-noshow:yes\;\n	
-	mso-style-priority:99\;\n	color:purple\;\n	text-decoration:underline\;\n	t
-	ext-underline:single\;}\np.MsoListParagraph\, li.MsoListParagraph\, div.Ms
-	oListParagraph\n	{mso-style-priority:34\;\n	mso-style-unhide:no\;\n	mso-st
-	yle-qformat:yes\;\n	margin-top:0in\;\n	margin-right:0in\;\n	margin-bottom:
-	0in\;\n	margin-left:.5in\;\n	mso-pagination:widow-orphan\;\n	font-size:11.
-	0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-font-family:Apto
-	s\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\n	{mso-style-name:mson
-	ormal\;\n	mso-style-unhide:no\;\n	mso-margin-top-alt:auto\;\n	margin-right
-	:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	mso-pagination
-	:widow-orphan\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;
-	\n	mso-fareast-font-family:Aptos\;}\nspan.xxcontentpasted2\n	{mso-style-na
-	me:x_x_contentpasted2\;\n	mso-style-unhide:no\;}\nspan.xxcontentpasted0\n	
-	{mso-style-name:x_x_contentpasted0\;\n	mso-style-unhide:no\;}\nspan.EmailS
-	tyle21\n	{mso-style-type:personal-compose\;\n	mso-style-noshow:yes\;\n	mso
-	-style-unhide:no\;}\nspan.SpellE\n	{mso-style-name:""\;\n	mso-spl-e:yes\;}
-	\nspan.GramE\n	{mso-style-name:""\;\n	mso-gram-e:yes\;}\n.MsoChpDefault\n	
-	{mso-style-type:export-only\;\n	mso-default-props:yes\;\n	font-size:10.0pt
-	\;\n	mso-ansi-font-size:10.0pt\;\n	mso-bidi-font-size:10.0pt\;\n	mso-font-
-	kerning:0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{size:8.5in 11
-	.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;\n	mso-header-margin:.5in\;\n	mso
-	-footer-margin:.5in\;\n	mso-paper-source:0\;}\ndiv.WordSection1\n	{page:Wo
-	rdSection1\;}\n/* List Definitions */\n@list l0\n	{mso-list-id:1466966723\
-	;\n	mso-list-type:hybrid\;\n	mso-list-template-ids:-1578884224 67698689 67
-	698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693\;}\n
-	@list l0:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;
-	\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	text-ind
-	ent:-.25in\;\n	font-family:Symbol\;}\n@list l0:level2\n	{mso-level-number-
-	format:bullet\;\n	mso-level-text:o\;\n	mso-level-tab-stop:none\;\n	mso-lev
-	el-number-position:left\;\n	text-indent:-.25in\;\n	font-family:"Courier Ne
-	w"\;}\n@list l0:level3\n	{mso-level-number-format:bullet\;\n	mso-level-tex
-	t:\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	t
-	ext-indent:-.25in\;\n	font-family:Wingdings\;}\n@list l0:level4\n	{mso-lev
-	el-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:none
-	\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	font-family
-	:Symbol\;}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n	mso-leve
-	l-text:o\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\
-	n	text-indent:-.25in\;\n	font-family:"Courier New"\;}\n@list l0:level6\n	{
-	mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-st
-	op:none\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	font
-	-family:Wingdings\;}\n@list l0:level7\n	{mso-level-number-format:bullet\;\
-	n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-number-posi
-	tion:left\;\n	text-indent:-.25in\;\n	font-family:Symbol\;}\n@list l0:level
-	8\n	{mso-level-number-format:bullet\;\n	mso-level-text:o\;\n	mso-level-tab
-	-stop:none\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	f
-	ont-family:"Courier New"\;}\n@list l0:level9\n	{mso-level-number-format:bu
-	llet\;\n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-numb
-	er-position:left\;\n	text-indent:-.25in\;\n	font-family:Wingdings\;}\n@lis
-	t l1\n	{mso-list-id:2057312573\;\n	mso-list-template-ids:-1022314354\;}\n@
-	list l1:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\
-	n	mso-level-tab-stop:.5in\;\n	mso-level-number-position:left\;\n	text-inde
-	nt:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l
-	1:level2\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-
-	level-tab-stop:1.0in\;\n	mso-level-number-position:left\;\n	text-indent:-.
-	25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:lev
-	el3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level
-	-tab-stop:1.5in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\
-	;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level4\n
-		{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-
-	stop:2.0in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	m
-	so-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level5\n	{mso
-	-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:
-	2.5in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-an
-	si-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level6\n	{mso-leve
-	l-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:3.0in
-	\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-fo
-	nt-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level7\n	{mso-level-num
-	ber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:3.5in\;\n	
-	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-si
-	ze:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level8\n	{mso-level-number-f
-	ormat:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:4.0in\;\n	mso-l
-	evel-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10
-	.0pt\;\n	font-family:Symbol\;}\n@list l1:level9\n	{mso-level-number-format
-	:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:4.5in\;\n	mso-level-
-	number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\
-	;\n	font-family:Symbol\;}\nol\n	{margin-bottom:0in\;}\nul\n	{margin-bottom
-	:0in\;}\n--></style><!--[if gte mso 10]><style>/* Style Definitions */\nta
-	ble.MsoNormalTable\n	{mso-style-name:"Table Normal"\;\n	mso-tstyle-rowband
-	-size:0\;\n	mso-tstyle-colband-size:0\;\n	mso-style-noshow:yes\;\n	mso-sty
-	le-priority:99\;\n	mso-style-parent:""\;\n	mso-padding-alt:0in 5.4pt 0in 5
-	.4pt\;\n	mso-para-margin:0in\;\n	mso-pagination:widow-orphan\;\n	font-size
-	:10.0pt\;\n	font-family:"Times New Roman"\,serif\;}\n</style><![endif]--><
-	!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n
-	</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n
-	<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></hea
-	d><body lang=EN-US link=blue vlink=purple style='tab-interval:.5in\;word-w
-	rap:break-word'><div class=WordSection1><div><div><div><div><div><div><div
-	><div><div><div><div><p class=MsoNormal><span style='font-size:12.0pt\;fon
-	t-family:"Aptos"\,sans-serif\;color:black'><o:p>&nbsp\;</o:p></span></p></
-	div><div align=center><table class=MsoNormalTable border=0 cellspacing=0 c
-	ellpadding=0 width=700 style='width:525.0pt\;background:white\;border-coll
-	apse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in 0in'><tr
-	 style='mso-yfti-irow:0\;mso-yfti-firstrow:yes'><td width=700 valign=top s
-	tyle='width:525.0pt\;padding:0in 0in 0in 0in'></td></tr><tr style='mso-yft
-	i-irow:1'><td width=700 style='width:525.0pt\;background:transparent\;padd
-	ing:0in 0in 0in 0in'><table class=MsoNormalTable border=0 cellspacing=0 ce
-	llpadding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-pa
-	dding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:y
-	es\;height:101.25pt'><td width=402 valign=top style='width:301.5pt\;backgr
-	ound:#233A5E\;padding:0in 0in 0in 30.0pt\;height:101.25pt'><table class=Ms
-	oNormalTable border=0 cellspacing=0 cellpadding=0 width=626 style='width:4
-	69.5pt\;border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0
-	in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yft
-	i-lastrow:yes'><td width=626 valign=top style='width:469.5pt\;padding:30.0
-	pt 0in 0in 0in'><p class=MsoNormal style='line-height:30.0pt\;mso-line-hei
-	ght-rule:exactly'><span style='font-size:26.0pt\;font-family:"Segoe UI Sem
-	ibold"\,sans-serif\;color:white'>ANZ AI &amp\; Copilots Partner Forum: Dro
-	p-in office hours</span><span style='font-family:"Segoe UI Semilight"\,san
-	s-serif'><o:p></o:p></span></p></td></tr></table></td><td width=298 rowspa
-	n=2 style='width:223.5pt\;background:#233A5E\;padding:0in 0in 0in 0in\;hei
-	ght:101.25pt'></td></tr><tr style='mso-yfti-irow:1\;mso-yfti-lastrow:yes\;
-	height:13.5pt'><td width=402 valign=bottom style='width:301.5pt\;backgroun
-	d:#233A5E\;padding:0in 0in 0in 30.0pt\;height:13.5pt'><table class=MsoNorm
-	alTable border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100
-	.0%\;border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 
-	0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yfti-l
-	astrow:yes'><td width=338 valign=top style='width:253.5pt\;padding:0in 0in
-	 30.0pt 0in'><p class=MsoNormal><span style='font-size:10.0pt\;font-family
-	:"Segoe UI"\,sans-serif\;color:white'>Fortnightly drop-in office hours for
-	 Microsoft Partners in Australia &amp\; New Zealand. Ask questions and get
-	 guidance from local partner tech team experts on the Microsoft Copilots a
-	nd building with AI enabled applications in Azure.</span><span style='font
-	-size:10.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p></o:p></span></p></
-	td></tr></table></td></tr></table></td></tr><tr style='mso-yfti-irow:2\;he
-	ight:30.0pt'><td width=700 valign=top style='width:525.0pt\;background:tra
-	nsparent\;padding:0in 0in 0in 0in\;height:30.0pt'><table class=MsoNormalTa
-	ble border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse\;
-	mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yft
-	i-irow:0\;mso-yfti-firstrow:yes'><td width=700 valign=top style='width:525
-	.0pt\;background:white\;padding:30.0pt 30.0pt 30.0pt 30.0pt'><p class=MsoN
-	ormal><span style='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,sans
-	-serif\;color:black'>Welcome to the ANZ AI &amp\; Copilots Partner Forum: 
-	Drop-in office hours.<o:p></o:p></span></p><p class=MsoNormal><span style=
-	'font-family:"Segoe UI"\,sans-serif\;color:black'><o:p>&nbsp\;</o:p></span
-	></p><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;c
-	olor:black'>This is a fortnightly session for Microsoft partners to <span 
-	style='mso-ligatures:standardcontextual'>drop-in\, connect and ask questio
-	ns of the local Australia and New Zealand tech team</span>. Bring your que
-	stions and discussion topics and our partner tech team will provide <b>ins
-	ights</b>\, <b>guidance</b>\, and <b>resources</b> to help you get ahead i
-	n the Era of AI.<o:p></o:p></span></p><p class=MsoNormal><span style='font
-	-family:"Segoe UI"\,sans-serif\;color:black'><o:p>&nbsp\;</o:p></span></p>
-	<p class=MsoNormal><span style='font-family:"Segoe UI Emoji"\,sans-serif\;
-	mso-bidi-font-family:"Segoe UI Emoji"\;color:black\;mso-ligatures:standard
-	contextual'>&#128226\;</span><span style='font-family:"Segoe UI"\,sans-ser
-	if\;color:black\;mso-ligatures:standardcontextual'> <a href="https://aka.m
-	s/anzaicopilotspartnerforum/joinmeeting">Click here to join the meeting</a
-	>.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Segoe
-	 UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'><o:p>&nbs
-	p\;</o:p></span></p><p class=MsoNormal><span style='font-family:"Segoe UI 
-	Emoji"\,sans-serif\;mso-bidi-font-family:"Segoe UI Emoji"\;color:black\;ms
-	o-ligatures:standardcontextual'>&#128197\;</span><span style='font-family:
-	"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'> <a
-	 href="https://aka.ms/anzaicopilotspartnerforum/dropinics">Click here to d
-	ownload the <b>drop-in office hours meeting</b> to add this to your schedu
-	le</a>.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"
-	Segoe UI Emoji"\,sans-serif\;mso-bidi-font-family:"Segoe UI Emoji"\;color:
-	black\;mso-ligatures:standardcontextual'>&#128467\;️</span><span style='
-	font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcon
-	textual'> <a href="https://aka.ms/anzaicopilotspartnerforum/calendar">Clic
-	k here to download the <b>shared public calendar</b> (containing all Partn
-	er Forum events) to add this to your schedule</a>.<o:p></o:p></span></p><p
+	ity:99\;\n	color:#467886\;\n	text-decoration:underline\;\n	text-underline:
+	single\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-noshow:yes\;
+	\n	mso-style-priority:99\;\n	color:#96607D\;\n	text-decoration:underline\;
+	\n	text-underline:single\;}\np.MsoListParagraph\, li.MsoListParagraph\, di
+	v.MsoListParagraph\n	{mso-style-priority:34\;\n	mso-style-unhide:no\;\n	ms
+	o-style-qformat:yes\;\n	margin-top:0in\;\n	margin-right:0in\;\n	margin-bot
+	tom:0in\;\n	margin-left:.5in\;\n	mso-pagination:widow-orphan\;\n	font-size
+	:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-font-family:
+	Aptos\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\n	{mso-style-name:
+	msonormal\;\n	mso-style-unhide:no\;\n	mso-margin-top-alt:auto\;\n	margin-r
+	ight:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	mso-pagina
+	tion:widow-orphan\;\n	font-size:12.0pt\;\n	font-family:"Aptos"\,sans-serif
+	\;\n	mso-fareast-font-family:Aptos\;\n	mso-bidi-font-family:Aptos\;}\nspan
+	.EmailStyle19\n	{mso-style-type:personal-compose\;\n	mso-style-noshow:yes\
+	;\n	mso-style-unhide:no\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ascii-
+	font-family:Aptos\;\n	mso-hansi-font-family:Aptos\;\n	color:windowtext\;}\
+	nspan.xxcontentpasted2\n	{mso-style-name:x_x_contentpasted2\;\n	mso-style-
+	unhide:no\;}\nspan.xxcontentpasted0\n	{mso-style-name:x_x_contentpasted0\;
+	\n	mso-style-unhide:no\;}\nspan.SpellE\n	{mso-style-name:""\;\n	mso-spl-e:
+	yes\;}\nspan.GramE\n	{mso-style-name:""\;\n	mso-gram-e:yes\;}\n.MsoChpDefa
+	ult\n	{mso-style-type:export-only\;\n	mso-default-props:yes\;\n	font-size:
+	10.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	mso-bidi-font-size:10.0pt\;\n	mso
+	-font-kerning:0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{size:8.
+	5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;\n	mso-header-margin:.5in\;
+	\n	mso-footer-margin:.5in\;\n	mso-paper-source:0\;}\ndiv.WordSection1\n	{p
+	age:WordSection1\;}\n/* List Definitions */\n@list l0\n	{mso-list-id:14669
+	66723\;\n	mso-list-type:hybrid\;\n	mso-list-template-ids:-1578884224 67698
+	689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 6769869
+	3\;}\n@list l0:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text
+	:\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	te
+	xt-indent:-.25in\;\n	font-family:Symbol\;}\n@list l0:level2\n	{mso-level-n
+	umber-format:bullet\;\n	mso-level-text:o\;\n	mso-level-tab-stop:none\;\n	m
+	so-level-number-position:left\;\n	text-indent:-.25in\;\n	font-family:"Cour
+	ier New"\;}\n@list l0:level3\n	{mso-level-number-format:bullet\;\n	mso-lev
+	el-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left
+	\;\n	text-indent:-.25in\;\n	font-family:Wingdings\;}\n@list l0:level4\n	{m
+	so-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-sto
+	p:none\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	font-
+	family:Symbol\;}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n	ms
+	o-level-text:o\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:l
+	eft\;\n	text-indent:-.25in\;\n	font-family:"Courier New"\;}\n@list l0:leve
+	l6\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-
+	tab-stop:none\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\
+	n	font-family:Wingdings\;}\n@list l0:level7\n	{mso-level-number-format:bul
+	let\;\n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-numbe
+	r-position:left\;\n	text-indent:-.25in\;\n	font-family:Symbol\;}\n@list l0
+	:level8\n	{mso-level-number-format:bullet\;\n	mso-level-text:o\;\n	mso-lev
+	el-tab-stop:none\;\n	mso-level-number-position:left\;\n	text-indent:-.25in
+	\;\n	font-family:"Courier New"\;}\n@list l0:level9\n	{mso-level-number-for
+	mat:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-leve
+	l-number-position:left\;\n	text-indent:-.25in\;\n	font-family:Wingdings\;}
+	\n@list l1\n	{mso-list-id:1886209731\;\n	mso-list-template-ids:-191740820\
+	;}\n@list l1:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text:
+	\;\n	mso-level-tab-stop:.5in\;\n	mso-level-number-position:left\;\n	tex
+	t-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@
+	list l1:level2\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\
+	n	mso-level-tab-stop:1.0in\;\n	mso-level-number-position:left\;\n	text-ind
+	ent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list 
+	l1:level3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso
+	-level-tab-stop:1.5in\;\n	mso-level-number-position:left\;\n	text-indent:-
+	.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:le
+	vel4\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-leve
+	l-tab-stop:2.0in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in
+	\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level5\
+	n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab
+	-stop:2.5in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	
+	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level6\n	{ms
+	o-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop
+	:3.0in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-a
+	nsi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level7\n	{mso-lev
+	el-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:3.5i
+	n\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-f
+	ont-size:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level8\n	{mso-level-nu
+	mber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:4.0in\;\n
+		mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-s
+	ize:10.0pt\;\n	font-family:Symbol\;}\n@list l1:level9\n	{mso-level-number-
+	format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:4.5in\;\n	mso-
+	level-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:1
+	0.0pt\;\n	font-family:Symbol\;}\nol\n	{margin-bottom:0in\;}\nul\n	{margin-
+	bottom:0in\;}\n--></style><!--[if gte mso 10]><style>/* Style Definitions 
+	*/\ntable.MsoNormalTable\n	{mso-style-name:"Table Normal"\;\n	mso-tstyle-r
+	owband-size:0\;\n	mso-tstyle-colband-size:0\;\n	mso-style-noshow:yes\;\n	m
+	so-style-priority:99\;\n	mso-style-parent:""\;\n	mso-padding-alt:0in 5.4pt
+	 0in 5.4pt\;\n	mso-para-margin:0in\;\n	mso-pagination:widow-orphan\;\n	fon
+	t-size:10.0pt\;\n	font-family:"Times New Roman"\,serif\;}\n</style><![endi
+	f]--><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026
+	" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="ed
+	it">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--
+	></head><body lang=EN-US link="#467886" vlink="#96607D" style='tab-interva
+	l:.5in\;word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><
+	span style='font-size:12.0pt\;font-family:"Aptos"\,sans-serif\;color:black
+	'><o:p>&nbsp\;</o:p></span></p><div align=center><table class=MsoNormalTab
+	le border=0 cellspacing=0 cellpadding=0 width=700 style='width:525.0pt\;ba
+	ckground:white\;border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-paddi
+	ng-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes'
+	><td width=700 valign=top style='width:525.0pt\;padding:0in 0in 0in 0in'><
+	/td></tr><tr style='mso-yfti-irow:1'><td width=700 style='width:525.0pt\;b
+	ackground:transparent\;padding:0in 0in 0in 0in'><table class=MsoNormalTabl
+	e border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse\;ms
+	o-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-
+	irow:0\;mso-yfti-firstrow:yes\;height:137.95pt'><td width=648 valign=top s
+	tyle='width:6.75in\;background:#233A5E\;padding:0in 0in 0in 30.0pt\;height
+	:137.95pt'><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=
+	0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:
+	0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yf
+	ti-lastrow:yes'><td width=614 valign=top style='width:460.5pt\;padding:30.
+	0pt 0in 0in 0in'><p class=MsoNormal style='line-height:30.0pt\;mso-line-he
+	ight-rule:exactly'><span style='font-size:26.0pt\;font-family:"Segoe UI Se
+	mibold"\,sans-serif\;color:white\;mso-ligatures:standardcontextual'>ANZ AI
+	 &amp\; Copilots Partner Forum: Drop-in office hours</span><span style='fo
+	nt-family:"Segoe UI Semilight"\,sans-serif\;mso-ligatures:standardcontextu
+	al'><o:p></o:p></span></p></td></tr></table></td><td width=52 rowspan=2 st
+	yle='width:39.0pt\;background:#233A5E\;padding:0in 0in 0in 0in\;height:137
+	.95pt'></td></tr><tr style='mso-yfti-irow:1\;mso-yfti-lastrow:yes\;height:
+	13.5pt'><td width=648 valign=bottom style='width:6.75in\;background:#233A5
+	E\;padding:0in 0in 0in 30.0pt\;height:13.5pt'><table class=MsoNormalTable 
+	border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%\;bor
+	der-collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in 
+	0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yfti-lastrow:y
+	es'><td width=338 valign=top style='width:253.5pt\;padding:0in 0in 30.0pt 
+	0in'><p class=MsoNormal><span style='font-size:10.0pt\;font-family:"Segoe 
+	UI"\,sans-serif\;color:white\;mso-ligatures:standardcontextual'>Fortnightl
+	y drop-in office hours for Microsoft Partners in Australia &amp\; New Zeal
+	and. Ask questions and get guidance from local partner tech team experts o
+	n the Microsoft Copilots and building with AI enabled applications in Azur
+	e.</span><span style='font-size:10.0pt\;font-family:"Segoe UI"\,sans-serif
+	\;mso-ligatures:standardcontextual'><o:p></o:p></span></p></td></tr></tabl
+	e></td></tr></table></td></tr><tr style='mso-yfti-irow:2\;height:30.0pt'><
+	td width=700 valign=top style='width:525.0pt\;background:transparent\;padd
+	ing:0in 0in 0in 0in\;height:30.0pt'><table class=MsoNormalTable border=0 c
+	ellspacing=0 cellpadding=0 style='border-collapse:collapse\;mso-yfti-tbllo
+	ok:1184\;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-
+	yfti-firstrow:yes'><td width=700 valign=top style='width:525.0pt\;backgrou
+	nd:white\;padding:30.0pt 30.0pt 30.0pt 30.0pt'><p class=MsoNormal><span st
+	yle='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:
+	black\;mso-ligatures:standardcontextual'>Welcome to the ANZ AI &amp\; Copi
+	lots Partner Forum: Drop-in office hours.<o:p></o:p></span></p><p class=Ms
+	oNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-
+	ligatures:standardcontextual'><o:p>&nbsp\;</o:p></span></p><p class=MsoNor
+	mal><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-liga
+	tures:standardcontextual'>This is a fortnightly session for Microsoft part
+	ners to drop-in\, connect and ask questions of the local Australia and New
+	 Zealand tech team. Bring your questions and discussion topics and our par
+	tner tech team will provide <b>insights</b>\, <b>guidance</b>\, and <b>res
+	ources</b> to help you get ahead in the Era of AI.<o:p></o:p></span></p><p
 	 class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:bl
 	ack\;mso-ligatures:standardcontextual'><o:p>&nbsp\;</o:p></span></p><p cla
-	ss=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:black\
-	;mso-ligatures:standardcontextual'>We know our partners have lots of quest
-	ions on building a practice and products around Microsoft Copilots and AI 
-	enabled applications\, so we wanted to provide a one-stop shop to <b>get a
-	nswers</b>\, the <b>latest news </b>&amp\; <b>resources</b> as well <b>gui
-	dance</b> on the <b>tools</b>\, <b>techniques\,</b> and <b>architectures</
-	b>.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Sego
-	e UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'>&nbsp\;&
+	ss=MsoNormal><span style='font-family:"Segoe UI Emoji"\,sans-serif\;mso-bi
+	di-font-family:"Segoe UI Emoji"\;color:black\;mso-ligatures:standardcontex
+	tual'>&#128226\;</span><span style='font-family:"Segoe UI"\,sans-serif\;co
+	lor:black\;mso-ligatures:standardcontextual'> <a href="https://aka.ms/anza
+	icopilotspartnerforum/joinmeeting">Click here to join the meeting</a>.<o:p
+	></o:p></span></p><p class=MsoNormal><span style='font-family:"Segoe UI"\,
+	sans-serif\;color:black\;mso-ligatures:standardcontextual'><o:p>&nbsp\;</o
+	:p></span></p><p class=MsoNormal><span style='font-family:"Segoe UI Emoji"
+	\,sans-serif\;mso-bidi-font-family:"Segoe UI Emoji"\;color:black\;mso-liga
+	tures:standardcontextual'>&#128197\;</span><span style='font-family:"Segoe
+	 UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'> <a href=
+	"https://aka.ms/anzaicopilotspartnerforum/dropinics">Click here to downloa
+	d the <b>drop-in office hours meeting</b> to add this to your schedule</a>
+	.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Segoe 
+	UI Emoji"\,sans-serif\;mso-bidi-font-family:"Segoe UI Emoji"\;color:black\
+	;mso-ligatures:standardcontextual'>&#128467\;️</span><span style='font-f
+	amily:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextua
+	l'> <a href="https://aka.ms/anzaicopilotspartnerforum/calendar">Click here
+	 to download the <b>shared public calendar</b> (containing all Partner For
+	um events) to add this to your schedule</a>.<o:p></o:p></span></p><p class
+	=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;m
+	so-ligatures:standardcontextual'><o:p>&nbsp\;</o:p></span></p><p class=Mso
+	Normal><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-l
+	igatures:standardcontextual'>We know our partners have lots of questions o
+	n building a practice and products around Microsoft Copilots and AI enable
+	d applications\, so we wanted to provide a one-stop shop to <b>get answers
+	</b>\, the <b>latest news </b>&amp\; <b>resources</b> as well <b>guidance<
+	/b> on the <b>tools</b>\, <b>techniques\,</b> and <b>architectures</b>.<o:
+	p></o:p></span></p><p class=MsoNormal><span style='font-family:"Segoe UI"\
+	,sans-serif\;color:black\;mso-ligatures:standardcontextual'>&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
 	nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
 	\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
-	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
-	;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
-	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; <b><o:p></o:p></b></span></p><p class=Mso
-	Normal><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-l
-	igatures:standardcontextual'>We will cover anything related to the followi
-	ng topics:</span><span style='font-family:"Segoe UI"\,sans-serif\;mso-liga
-	tures:standardcontextual'><o:p></o:p></span></p><ul type=disc><li class=Ms
-	oListParagraph style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\
-	;margin-left:0in\;mso-list:l0 level1 lfo3'><span style='font-family:"Segoe
-	 UI"\,sans-serif\;mso-fareast-font-family:"Times New Roman"\;color:black\;
-	mso-ligatures:standardcontextual'>Preparing for <b>M365 Copilot</b> and <b
-	>extending</b> it.</span><span style='font-family:"Segoe UI"\,sans-serif\;
-	mso-fareast-font-family:"Times New Roman"\;mso-ligatures:standardcontextua
-	l'><o:p></o:p></span></li><li class=MsoListParagraph style='mso-margin-top
-	-alt:auto\;mso-margin-bottom-alt:auto\;margin-left:0in\;mso-list:l0 level1
-	 lfo3'><span style='font-family:"Segoe UI"\,sans-serif\;mso-fareast-font-f
-	amily:"Times New Roman"\;color:black\;mso-ligatures:standardcontextual'>Bu
-	ilding <b>new practices</b> and <b>products</b> using Microsoft copilots.<
-	/span><span style='font-family:"Segoe UI"\,sans-serif\;mso-fareast-font-fa
-	mily:"Times New Roman"\;mso-ligatures:standardcontextual'><o:p></o:p></spa
-	n></li><li class=MsoListParagraph style='mso-margin-top-alt:auto\;mso-marg
-	in-bottom-alt:auto\;margin-left:0in\;mso-list:l0 level1 lfo3'><span style=
-	'font-family:"Segoe UI"\,sans-serif\;mso-fareast-font-family:"Times New Ro
-	man"\;color:black\;mso-ligatures:standardcontextual'>All the other <b>Micr
-	osoft copilots</b> (GitHub Copilot\, Power Platform Copilot\, Security Cop
-	ilot etc.).</span><span style='font-family:"Segoe UI"\,sans-serif\;mso-far
-	east-font-family:"Times New Roman"\;mso-ligatures:standardcontextual'><o:p
-	></o:p></span></li><li class=MsoListParagraph style='mso-margin-top-alt:au
-	to\;mso-margin-bottom-alt:auto\;margin-left:0in\;mso-list:l0 level1 lfo3'>
-	<span class=xxcontentpasted2><span style='font-family:"Segoe UI"\,sans-ser
-	if\;mso-fareast-font-family:"Times New Roman"\;color:black\;background:whi
-	te\;mso-ligatures:standardcontextual'>Building Copilots and AI enabled app
-	lications with <b>Azure OpenAI Service </b>and other Azure AI services and
-	 technologies.</span><o:p></o:p></span></li></ul><p class=MsoNormal><span 
-	style='font-family:"Segoe UI Emoji"\,sans-serif\;mso-bidi-font-family:"Seg
-	oe UI Emoji"\;color:black\;mso-ligatures:standardcontextual'>&#129300\;</s
-	pan><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-liga
-	tures:standardcontextual'> Have you got a <b>question</b> or <b>topic</b> 
-	you'd like to ask? Let us know by <a href="https://aka.ms/anzaicopilotspar
-	tnerforum/questionform">completing this form</a>.</span><o:p></o:p></p><p 
-	style='background:white'><b><span style='font-family:"Segoe UI"\,sans-seri
-	f\;color:black\;mso-ligatures:standardcontextual'>Note:</span></b><span st
-	yle='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standa
-	rdcontextual'> these sessions are <b>public\,</b> and anyone can join them
-	\, therefore <i>don’t share any private or sensitive information in the 
-	meeting</i>.<o:p></o:p></span></p><p style='background:white'><span style=
-	'font-family:"Segoe UI"\,sans-serif\;color:#242424\;mso-ligatures:standard
-	contextual'>These sessions are suitable for both <b>technical</b> and <b>n
-	on-technical</b> people. The content will be aimed at <b>L100</b>\, but de
-	pending on questions asked may dip down to L300.<o:p></o:p></span></p><p c
-	lass=MsoNormal style='font-variant-ligatures: normal\;font-variant-caps: n
-	ormal\;orphans: 2\;text-align:start\;widows: 2\;-webkit-text-stroke-width:
-	 0px\;text-decoration-thickness: initial\;text-decoration-style: initial\;
-	text-decoration-color: initial\;word-spacing:0px'><span style='font-family
-	:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'>We
-	 hope you enjoy these sessions and find them useful. If you have any feedb
-	ack or questions\, please feel free to contact us at <a href="mailto:anzai
-	copilots@microsoft.com">anzaicopilots@microsoft.com</a>.<o:p></o:p></span>
-	</p><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;co
-	lor:black\;mso-ligatures:standardcontextual'><o:p>&nbsp\;</o:p></span></p>
-	<p class=MsoNormal><b><span style='font-family:"Segoe UI"\,sans-serif\;col
-	or:black\;mso-ligatures:standardcontextual'>The GPS Azure OpenAI and Copil
-	ot team</span></b><b><span style='font-family:"Segoe UI"\,sans-serif\;colo
-	r:black'><o:p></o:p></span></b></p></td></tr><tr style='mso-yfti-irow:1\;m
-	so-yfti-lastrow:yes'><td width=700 valign=top style='width:525.0pt\;backgr
-	ound:white\;padding:0in 30.0pt 0in 30.0pt'></td></tr></table></td></tr><tr
-	 style='mso-yfti-irow:3\;height:30.0pt'><td width=700 valign=top style='wi
-	dth:525.0pt\;background:transparent\;padding:0in 0in 0in 0in\;height:30.0p
-	t'><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style=
-	'background:#0078D7\;border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-
-	padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow
-	:yes\;mso-yfti-lastrow:yes'><td width=699 valign=top style='width:524.5pt\
-	;background:#7F69E8\;padding:15.0pt 30.0pt 15.0pt 30.0pt'><p class=MsoNorm
-	al><a name=AI></a><span style='font-size:14.0pt\;font-family:"Segoe UI Sem
-	ibold"\,sans-serif\;color:white'>FAQ<o:p></o:p></span></p></td></tr></tabl
-	e></td></tr><tr style='mso-yfti-irow:4\;height:30.0pt'><td width=700 valig
-	n=top style='width:525.0pt\;background:transparent\;padding:0in 0in 0in 0i
-	n\;height:30.0pt'><table class=MsoNormalTable border=0 cellspacing=0 cellp
-	adding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-paddi
-	ng-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes'
-	><td width=700 valign=top style='width:525.0pt\;background:white\;padding:
-	30.0pt 30.0pt 0in 30.0pt'><table class=MsoNormalTable border=0 cellspacing
-	=0 cellpadding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;m
-	so-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-first
-	row:yes'><td width=619 valign=top style='width:464.5pt\;border:none\;borde
-	r-bottom:solid #AEAAAA 1.0pt\;padding:0in 0in 30.0pt 0in'><p class=MsoNorm
-	al><span style='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,sans-se
-	rif\;color:#7F69E8'>Q: What are drop-in office hours?<o:p></o:p></span></p
-	><p class=MsoNormal><b><span style='font-family:"Segoe UI"\,sans-serif\;co
-	lor:black'>A:</span></b><span style='font-family:"Segoe UI"\,sans-serif\;c
-	olor:black'> These are dedicated time slots without a fixed agenda\, where
-	 partners can drop-in and ask questions or hear news/information about rel
-	ating to Microsoft Copilots a</span><span style='font-family:"Segoe UI"\,s
-	ans-serif'>nd <span style='color:black'>AI e</span>nabled applications<spa
-	n style='color:black'>. If you have a specific topic or question\, you'd l
-	ike to hear discussed\, please <a href="https://forms.office.com/r/WmrKmvE
-	f60">fill out this form</a>.<o:p></o:p></span></span></p></td></tr><tr sty
-	le='mso-yfti-irow:1\;mso-yfti-lastrow:yes'><td width=619 valign=top style=
-	'width:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.0pt\;padding:30
-	.0pt 0in 30.0pt 0in'><p class=MsoNormal><span style='font-size:14.0pt\;fon
-	t-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8'>Q: If I didn't fi
-	ll out the form to raise a question or bring up a topic\, can I still ask 
-	on the drop-in?<o:p></o:p></span></p><p class=MsoNormal><b><span style='fo
-	nt-family:"Segoe UI"\,sans-serif\;color:black'>A:</span></b><span style='f
-	ont-family:"Segoe UI"\,sans-serif\;color:black'> Absolutely! However\, due
-	 to the breadth of the AI &amp\; Copilots topic\, it’s helpful for us to
-	 know more about what you want to hear and the challenges you are facing. 
-	<a href="https://forms.office.com/r/WmrKmvEf60">Filling in the form</a> gi
-	ves us more information to help provide you with value.<o:p></o:p></span><
-	/p></td></tr></table><p class=MsoNormal><span style='font-size:10.0pt\;fon
-	t-family:"Times New Roman"\,serif\;display:none\;mso-hide:all'><o:p>&nbsp\
-	;</o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellp
-	adding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-paddi
-	ng-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\
+	bsp\;&nbsp\;&nbsp\;&nbsp\; <b><o:p></o:p></b></span></p><p class=MsoNormal
+	><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatur
+	es:standardcontextual'>We will cover anything related to the following top
+	ics:</span><span style='font-family:"Segoe UI"\,sans-serif\;mso-ligatures:
+	standardcontextual'><o:p></o:p></span></p><ul type=disc><li class=MsoListP
+	aragraph style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;margi
+	n-left:0in\;mso-list:l0 level1 lfo3'><span style='font-family:"Segoe UI"\,
+	sans-serif\;mso-fareast-font-family:"Times New Roman"\;color:black\;mso-li
+	gatures:standardcontextual'>Preparing for <b>M365 Copilot</b> and <b>exten
+	ding</b> it.</span><span style='font-family:"Segoe UI"\,sans-serif\;mso-fa
+	reast-font-family:"Times New Roman"\;mso-ligatures:standardcontextual'><o:
+	p></o:p></span></li><li class=MsoListParagraph style='mso-margin-top-alt:a
+	uto\;mso-margin-bottom-alt:auto\;margin-left:0in\;mso-list:l0 level1 lfo3'
+	><span style='font-family:"Segoe UI"\,sans-serif\;mso-fareast-font-family:
+	"Times New Roman"\;color:black\;mso-ligatures:standardcontextual'>Building
+	 <b>new practices</b> and <b>products</b> using Microsoft copilots.</span>
+	<span style='font-family:"Segoe UI"\,sans-serif\;mso-fareast-font-family:"
+	Times New Roman"\;mso-ligatures:standardcontextual'><o:p></o:p></span></li
+	><li class=MsoListParagraph style='mso-margin-top-alt:auto\;mso-margin-bot
+	tom-alt:auto\;margin-left:0in\;mso-list:l0 level1 lfo3'><span style='font-
+	family:"Segoe UI"\,sans-serif\;mso-fareast-font-family:"Times New Roman"\;
+	color:black\;mso-ligatures:standardcontextual'>All the other <b>Microsoft 
+	copilots</b> (GitHub Copilot\, Power Platform Copilot\, Security Copilot e
+	tc.).</span><span style='font-family:"Segoe UI"\,sans-serif\;mso-fareast-f
+	ont-family:"Times New Roman"\;mso-ligatures:standardcontextual'><o:p></o:p
+	></span></li><li class=MsoListParagraph style='mso-margin-top-alt:auto\;ms
+	o-margin-bottom-alt:auto\;margin-left:0in\;mso-list:l0 level1 lfo3'><span 
+	class=xxcontentpasted2><span style='font-family:"Segoe UI"\,sans-serif\;ms
+	o-fareast-font-family:"Times New Roman"\;color:black\;background:white\;ms
+	o-ligatures:standardcontextual'>Building Copilots and AI enabled applicati
+	ons with <b>Azure OpenAI Service </b>and other Azure AI services and techn
+	ologies.</span><o:p></o:p></span></li></ul><p class=MsoNormal><span style=
+	'font-family:"Segoe UI Emoji"\,sans-serif\;mso-bidi-font-family:"Segoe UI 
+	Emoji"\;color:black\;mso-ligatures:standardcontextual'>&#129300\;</span><s
+	pan style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:
+	standardcontextual'> Have you got a <b>question</b> or <b>topic</b> you'd 
+	like to ask? Let us know by <a href="https://aka.ms/anzaicopilotspartnerfo
+	rum/questionform">completing this form</a>.</span><o:p></o:p></p><p style=
+	'background:white'><b><span style='font-size:11.0pt\;font-family:"Segoe UI
+	"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'>Note:</span>
+	</b><span style='font-size:11.0pt\;font-family:"Segoe UI"\,sans-serif\;col
+	or:black\;mso-ligatures:standardcontextual'> these sessions are <b>public\
+	,</b> and anyone can join them\, therefore <i>don’t share any private or
+	 sensitive information in the meeting</i>.<o:p></o:p></span></p><p style='
+	background:white'><span style='font-size:11.0pt\;font-family:"Segoe UI"\,s
+	ans-serif\;color:#242424\;mso-ligatures:standardcontextual'>These sessions
+	 are suitable for both <b>technical</b> and <b>non-technical</b> people. T
+	he content will be aimed at <b>L100</b>\, but depending on questions asked
+	 may dip down to L300.<o:p></o:p></span></p><p class=MsoNormal style='font
+	-variant-ligatures: normal\;font-variant-caps: normal\;orphans: 2\;text-al
+	ign:start\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thic
+	kness: initial\;text-decoration-style: initial\;text-decoration-color: ini
+	tial\;word-spacing:0px'><span style='font-family:"Segoe UI"\,sans-serif\;c
+	olor:black\;mso-ligatures:standardcontextual'>We hope you enjoy these sess
+	ions and find them useful. If you have any feedback or questions\, please 
+	feel free to contact us at <a href="mailto:anzaicopilots@microsoft.com">an
+	zaicopilots@microsoft.com</a>.<o:p></o:p></span></p><p class=MsoNormal><sp
+	an style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:s
+	tandardcontextual'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><b><spa
+	n style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:st
+	andardcontextual'>The GPS Azure OpenAI and Copilot team<o:p></o:p></span><
+	/b></p></td></tr><tr style='mso-yfti-irow:1\;mso-yfti-lastrow:yes'><td wid
+	th=700 valign=top style='width:525.0pt\;background:white\;padding:0in 30.0
+	pt 0in 30.0pt'></td></tr></table></td></tr><tr style='mso-yfti-irow:3\;hei
+	ght:30.0pt'><td width=700 valign=top style='width:525.0pt\;background:tran
+	sparent\;padding:0in 0in 0in 0in\;height:30.0pt'><table class=MsoNormalTab
+	le border=0 cellspacing=0 cellpadding=0 style='background:#0078D7\;border-
+	collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in 0in'
+	><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yfti-lastrow:yes'>
+	<td width=699 valign=top style='width:524.5pt\;background:#7F69E8\;padding
+	:15.0pt 30.0pt 15.0pt 30.0pt'><p class=MsoNormal><a name=AI></a><span styl
+	e='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:wh
+	ite\;mso-ligatures:standardcontextual'>FAQ<o:p></o:p></span></p></td></tr>
+	</table></td></tr><tr style='mso-yfti-irow:4\;height:30.0pt'><td width=700
+	 valign=top style='width:525.0pt\;background:transparent\;padding:0in 0in 
+	0in 0in\;height:30.0pt'><table class=MsoNormalTable border=0 cellspacing=0
+	 cellpadding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;mso
+	-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstro
+	w:yes'><td width=700 valign=top style='width:525.0pt\;background:white\;pa
+	dding:30.0pt 30.0pt 0in 30.0pt'><table class=MsoNormalTable border=0 cells
+	pacing=0 cellpadding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1
+	184\;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti
+	-firstrow:yes'><td width=619 valign=top style='width:464.5pt\;border:none\
+	;border-bottom:solid #AEAAAA 1.0pt\;padding:0in 0in 30.0pt 0in'><p class=M
+	soNormal><span style='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,s
+	ans-serif\;color:#7F69E8\;mso-ligatures:standardcontextual'>Q: What are dr
+	op-in office hours?<o:p></o:p></span></p><p class=MsoNormal><b><span style
+	='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardc
+	ontextual'>A:</span></b><span style='font-family:"Segoe UI"\,sans-serif\;c
+	olor:black\;mso-ligatures:standardcontextual'> These are dedicated time sl
+	ots without a fixed agenda\, where partners can drop-in and ask questions 
+	or hear news/information about relating to Microsoft Copilots a</span><spa
+	n style='font-family:"Segoe UI"\,sans-serif\;mso-ligatures:standardcontext
+	ual'>nd <span style='color:black'>AI e</span>nabled applications<span styl
+	e='color:black'>. If you have a specific topic or question\, you'd like to
+	 hear discussed\, please <a href="https://forms.office.com/r/WmrKmvEf60">f
+	ill out this form</a>.<o:p></o:p></span></span></p></td></tr><tr style='ms
+	o-yfti-irow:1\;mso-yfti-lastrow:yes'><td width=619 valign=top style='width
+	:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.0pt\;padding:30.0pt 0
+	in 30.0pt 0in'><p class=MsoNormal><span style='font-size:14.0pt\;font-fami
+	ly:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8\;mso-ligatures:standardc
+	ontextual'>Q: If I didn't fill out the form to raise a question or bring u
+	p a topic\, can I still ask on the drop-in?<o:p></o:p></span></p><p class=
+	MsoNormal><b><span style='font-family:"Segoe UI"\,sans-serif\;color:black\
+	;mso-ligatures:standardcontextual'>A:</span></b><span style='font-family:"
+	Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'> Abs
+	olutely! However\, due to the breadth of the AI &amp\; Copilots topic\, it
+	’s helpful for us to know more about what you want to hear and the chall
+	enges you are facing. <a href="https://forms.office.com/r/WmrKmvEf60">Fill
+	ing in the form</a> gives us more information to help provide you with val
+	ue.<o:p></o:p></span></p></td></tr></table><p class=MsoNormal><span style=
+	'font-size:10.0pt\;font-family:"Times New Roman"\,serif\;display:none\;mso
+	-hide:all\;mso-ligatures:standardcontextual'><o:p>&nbsp\;</o:p></span></p>
+	<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='bo
+	rder-collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in
+	 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yfti-lastrow:
+	yes'><td width=619 valign=top style='width:464.5pt\;border:none\;border-bo
+	ttom:solid #AEAAAA 1.0pt\;padding:30.0pt 0in 30.0pt 0in'><p class=MsoNorma
+	l style='margin-bottom:6.0pt'><span style='font-size:14.0pt\;font-family:"
+	Segoe UI Semibold"\,sans-serif\;color:#7F69E8\;mso-ligatures:standardconte
+	xtual'>Q: Why are you running these sessions?<o:p></o:p></span></p><p clas
+	s=MsoNormal><b><span style='font-family:"Segoe UI"\,sans-serif\;color:blac
+	k\;mso-ligatures:standardcontextual'>A:</span></b><span style='font-family
+	:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'> W
+	e know many partners have lots of questions on creating new products &amp\
+	; practices around Copilots and AI enabled applications\, so we wanted to 
+	provide a one-stop shop to <b>get answers</b>\, <b>the latest <span class=
+	GramE>news</span> </b>and <b>resources</b> as well as <b>guidance</b> on t
+	he <i>latest tools</i> and <i>techniques</i>. The tech team also get more 
+	questions than we can field\, so this helps us to scale to meet the needs 
+	of our partners.<o:p></o:p></span></p><p class=MsoNormal><span style='font
+	-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontext
+	ual'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='font-fam
+	ily:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'
+	>The field of copilots and generative AI is moving at an incredible speed\
+	, and we know it’s difficult to keep across everything. This is an oppor
+	tunity for you to hear from the tech team on what is new in the field. We
+	’ll keep you <span class=GramE>up-to-date</span> on the resources availa
+	ble to partners to help them be successful in building practices around th
+	ese exciting new products and technologies.<o:p></o:p></span></p></td></tr
+	></table><p class=MsoNormal><span style='font-size:10.0pt\;font-family:"Ti
+	mes New Roman"\,serif\;display:none\;mso-hide:all\;mso-ligatures:standardc
+	ontextual'><o:p>&nbsp\;</o:p></span></p><table class=MsoNormalTable border
+	=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse\;mso-yfti-t
+	bllook:1184\;mso-padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;
+	mso-yfti-firstrow:yes'><td width=619 valign=top style='width:464.5pt\;bord
+	er:none\;border-bottom:solid #AEAAAA 1.0pt\;padding:30.0pt 0in 30.0pt 0in'
+	><p class=MsoNormal><span style='font-size:14.0pt\;font-family:"Segoe UI S
+	emibold"\,sans-serif\;color:#7F69E8\;mso-ligatures:standardcontextual'>Q: 
+	Can I raise support tickets here?<o:p></o:p></span></p><p class=MsoNormal>
+	<b><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligat
+	ures:standardcontextual'>A:</span></b><span style='font-family:"Segoe UI"\
+	,sans-serif\;color:black\;mso-ligatures:standardcontextual'> No\, this is 
+	not a replacement for Microsoft support channels. The team will provide in
+	sights\, news and guidance based on your questions only.<o:p></o:p></span>
+	</p></td></tr><tr style='mso-yfti-irow:1'><td width=619 valign=top style='
+	width:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.0pt\;padding:30.
+	0pt 0in 30.0pt 0in'><p class=MsoNormal><span style='font-size:14.0pt\;font
+	-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8\;mso-ligatures:stan
+	dardcontextual'>Q: Will any non-public information be shared in these sess
+	ions?<o:p></o:p></span></p><p class=MsoNormal><b><span style='font-family:
+	"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextual'>A:<
+	/span></b><span style='font-family:"Segoe UI"\,sans-serif\;color:black\;ms
+	o-ligatures:standardcontextual'> No\, the Microsoft team will only share i
+	nformation that is public\, but you will get information that is not widel
+	y known.</span><span style='font-size:14.0pt\;font-family:"Segoe UI Semibo
+	ld"\,sans-serif\;color:#7F69E8\;mso-ligatures:standardcontextual'><o:p></o
+	:p></span></p></td></tr><tr style='mso-yfti-irow:2'><td width=619 valign=t
+	op style='width:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.0pt\;p
+	adding:30.0pt 0in 30.0pt 0in'><p class=MsoNormal><span style='font-size:14
+	.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8\;mso-liga
+	tures:standardcontextual'>Q: I’m not from a Microsoft partner\, can I st
+	ill attend?<o:p></o:p></span></p><p style='margin:0in'><b><span style='fon
+	t-size:11.0pt\;font-family:"Segoe UI"\,sans-serif\;color:black\;mso-ligatu
+	res:standardcontextual'>A:</span></b><span style='font-size:11.0pt\;font-f
+	amily:"Segoe UI"\,sans-serif\;color:black\;mso-ligatures:standardcontextua
+	l'> </span><span class=xxcontentpasted0><span style='font-size:11.0pt\;mso
+	-ligatures:standardcontextual'>Sure\, but we will be focusing on informati
+	on and questions that services or ISV partners might need to know. You wil
+	l still get some great insights\, but it will be tailored for partners spe
+	cifically.</span></span><span style='font-size:11.0pt\;mso-ligatures:stand
+	ardcontextual'><o:p></o:p></span></p></td></tr><tr style='mso-yfti-irow:3\
 	;mso-yfti-lastrow:yes'><td width=619 valign=top style='width:464.5pt\;bord
 	er:none\;border-bottom:solid #AEAAAA 1.0pt\;padding:30.0pt 0in 30.0pt 0in'
-	><p class=MsoNormal style='margin-bottom:6.0pt'><span style='font-size:14.
-	0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8'>Q: Why ar
-	e you running these sessions?<o:p></o:p></span></p><p class=MsoNormal><b><
-	span style='font-family:"Segoe UI"\,sans-serif\;color:black'>A:</span></b>
-	<span style='font-family:"Segoe UI"\,sans-serif\;color:black'> We know man
-	y partners have lots of questions on creating new products &amp\; practice
-	s around Copilots and AI enabled applications\, so we wanted to provide a 
-	one-stop shop to <b>get answers</b>\, <b>the latest <span class=GramE>news
-	</span> </b>and <b>resources</b> as well as <b>guidance</b> on the <i>late
-	st tools</i> and <i>techniques</i>. The tech team also get more questions 
-	than we can field\, so this helps us to scale to meet the needs of our par
-	tners.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"S
-	egoe UI"\,sans-serif\;color:black'><o:p>&nbsp\;</o:p></span></p><p class=M
-	soNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:black'>The
-	 field of copilots and generative AI is moving at an incredible speed\, an
-	d we know it’s difficult to keep across everything. This is an opportuni
-	ty for you to hear from the tech team on what is new in the field. We’ll
-	 keep you <span class=GramE>up-to-date</span> on the resources available t
-	o partners to help them be successful in building practices around these e
-	xciting new products and technologies.<o:p></o:p></span></p></td></tr></ta
-	ble><p class=MsoNormal><span style='font-size:10.0pt\;font-family:"Times N
-	ew Roman"\,serif\;display:none\;mso-hide:all'><o:p>&nbsp\;</o:p></span></p
-	><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='b
-	order-collapse:collapse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0i
-	n 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow:yes'><td width=619 va
-	lign=top style='width:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.
-	0pt\;padding:30.0pt 0in 30.0pt 0in'><p class=MsoNormal><span style='font-s
-	ize:14.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8'>Q:
-	 Can I raise support tickets here?<o:p></o:p></span></p><p class=MsoNormal
-	><b><span style='font-family:"Segoe UI"\,sans-serif\;color:black'>A:</span
-	></b><span style='font-family:"Segoe UI"\,sans-serif\;color:black'> No\, t
-	his is not a replacement for Microsoft support channels. The team will pro
-	vide insights\, news and guidance based on your questions only.<o:p></o:p>
-	</span></p></td></tr><tr style='mso-yfti-irow:1'><td width=619 valign=top 
-	style='width:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.0pt\;padd
-	ing:30.0pt 0in 30.0pt 0in'><p class=MsoNormal><span style='font-size:14.0p
-	t\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8'>Q: Will any
-	 non-public information be shared in these sessions?<o:p></o:p></span></p>
-	<p class=MsoNormal><b><span style='font-family:"Segoe UI"\,sans-serif\;col
-	or:black'>A:</span></b><span style='font-family:"Segoe UI"\,sans-serif\;co
-	lor:black'> No\, the Microsoft team will only share information that is pu
-	blic\, but you will get information that is not widely known.</span><span 
-	style='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;colo
-	r:#7F69E8'><o:p></o:p></span></p></td></tr><tr style='mso-yfti-irow:2'><td
-	 width=619 valign=top style='width:464.5pt\;border:none\;border-bottom:sol
-	id #AEAAAA 1.0pt\;padding:30.0pt 0in 30.0pt 0in'><p class=MsoNormal><span 
-	style='font-size:14.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;colo
-	r:#7F69E8'>Q: I’m not from a Microsoft partner\, can I still attend?<o:p
-	></o:p></span></p><p style='margin:0in'><b><span style='font-family:"Segoe
-	 UI"\,sans-serif\;color:black'>A:</span></b><span style='font-family:"Sego
-	e UI"\,sans-serif\;color:black'> </span><span class=xxcontentpasted0><span
-	 style='font-size:12.0pt\;font-family:"Aptos"\,sans-serif'>Sure\, but we w
-	ill be focusing on information and questions that services or ISV partners
-	 might need to know. You will still get some great insights\, but it will 
-	be tailored for partners specifically.</span></span><span style='font-size
-	:12.0pt\;font-family:"Aptos"\,sans-serif'><o:p></o:p></span></p></td></tr>
-	<tr style='mso-yfti-irow:3\;mso-yfti-lastrow:yes'><td width=619 valign=top
-	 style='width:464.5pt\;border:none\;border-bottom:solid #AEAAAA 1.0pt\;pad
-	ding:30.0pt 0in 30.0pt 0in'><p class=MsoNormal><span style='font-size:14.0
-	pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8'>Q: Are the
-	se sessions going to be recorded?<o:p></o:p></span></p><p style='margin:0i
-	n'><b><span style='font-family:"Segoe UI"\,sans-serif\;color:black'>A:</sp
-	an></b><span style='font-family:"Segoe UI"\,sans-serif\;color:black'> No\,
-	 at this point they will not be. This may be reconsidered if we hear that 
-	this is useful.</span><span style='font-size:12.0pt\;font-family:"Aptos"\,
-	sans-serif'><o:p></o:p></span></p><p class=MsoNormal><span style='font-siz
-	e:14.0pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#7F69E8'><o:p
-	>&nbsp\;</o:p></span></p></td></tr></table><p class=MsoNormal><span style=
-	'font-size:10.0pt\;font-family:"Times New Roman"\,serif'><o:p></o:p></span
-	></p></td></tr><tr style='mso-yfti-irow:1\;mso-yfti-lastrow:yes'><td width
-	=700 valign=top style='width:525.0pt\;background:white\;padding:0in 30.0pt
-	 0in 30.0pt'></td></tr></table></td></tr><tr style='mso-yfti-irow:5'><td w
-	idth=700 valign=top style='width:525.0pt\;padding:0in 0in 0in 0in'><a name
-	=Resources></a></td></tr><tr style='mso-yfti-irow:6\;mso-yfti-lastrow:yes'
-	><td width=700 valign=top style='width:525.0pt\;background:transparent\;pa
-	dding:0in 0in 0in 0in'><table class=MsoNormalTable border=0 cellspacing=0 
-	cellpadding=0 style='border-collapse:collapse\;mso-yfti-tbllook:1184\;mso-
-	padding-alt:0in 0in 0in 0in'><tr style='mso-yfti-irow:0\;mso-yfti-firstrow
-	:yes\;mso-yfti-lastrow:yes'><td width=700 valign=top style='width:525.0pt\
-	;padding:30.0pt 30.0pt 30.0pt 30.0pt'><p class=MsoNormal><span style='font
-	-size:9.0pt\;font-family:"Segoe UI Semilight"\,sans-serif'>If you <span cl
-	ass=GramE>prefer</span> I not forward you these types of communications\, 
-	just let me know. To learn how to manage your contact preferences for othe
-	r parts of Microsoft\, please read <span style='color:black'>our </span></
-	span><a href="https://privacy.microsoft.com/en-gb/privacystatement"><span 
-	style='font-size:9.0pt\;font-family:"Segoe UI Semilight"\,sans-serif\;colo
-	r:black'>Privacy Statement</span></a><span style='font-size:9.0pt\;font-fa
-	mily:"Segoe UI Semilight"\,sans-serif\;color:black'>.</span><span style='f
-	ont-size:9.0pt\;font-family:"Segoe UI Semilight"\,sans-serif'><o:p></o:p><
-	/span></p><p class=MsoNormal><span style='font-size:9.0pt\;font-family:"Se
-	goe UI Semilight"\,sans-serif'><o:p>&nbsp\;</o:p></span></p><p class=MsoNo
+	><p class=MsoNormal><span style='font-size:14.0pt\;font-family:"Segoe UI S
+	emibold"\,sans-serif\;color:#7F69E8\;mso-ligatures:standardcontextual'>Q: 
+	Are these sessions going to be recorded?<o:p></o:p></span></p><p style='ma
+	rgin:0in'><b><span style='font-size:11.0pt\;font-family:"Segoe UI"\,sans-s
+	erif\;color:black\;mso-ligatures:standardcontextual'>A:</span></b><span st
+	yle='font-size:11.0pt\;font-family:"Segoe UI"\,sans-serif\;color:black\;ms
+	o-ligatures:standardcontextual'> No\, at this point they will not be. This
+	 may be reconsidered if we hear that this is useful.</span><span style='fo
+	nt-size:11.0pt\;mso-ligatures:standardcontextual'><o:p></o:p></span></p><p
+	 class=MsoNormal><span style='font-size:14.0pt\;font-family:"Segoe UI Semi
+	bold"\,sans-serif\;color:#7F69E8\;mso-ligatures:standardcontextual'><o:p>&
+	nbsp\;</o:p></span></p></td></tr></table><p class=MsoNormal><span style='f
+	ont-size:10.0pt\;font-family:"Times New Roman"\,serif\;mso-ligatures:stand
+	ardcontextual'><o:p></o:p></span></p></td></tr><tr style='mso-yfti-irow:1\
+	;mso-yfti-lastrow:yes'><td width=700 valign=top style='width:525.0pt\;back
+	ground:white\;padding:0in 30.0pt 0in 30.0pt'></td></tr></table></td></tr><
+	tr style='mso-yfti-irow:5'><td width=700 valign=top style='width:525.0pt\;
+	padding:0in 0in 0in 0in'><a name=Resources></a></td></tr><tr style='mso-yf
+	ti-irow:6\;mso-yfti-lastrow:yes'><td width=700 valign=top style='width:525
+	.0pt\;background:transparent\;padding:0in 0in 0in 0in'><table class=MsoNor
+	malTable border=0 cellspacing=0 cellpadding=0 style='border-collapse:colla
+	pse\;mso-yfti-tbllook:1184\;mso-padding-alt:0in 0in 0in 0in'><tr style='ms
+	o-yfti-irow:0\;mso-yfti-firstrow:yes\;mso-yfti-lastrow:yes'><td width=700 
+	valign=top style='width:525.0pt\;padding:30.0pt 30.0pt 30.0pt 30.0pt'><p c
+	lass=MsoNormal><span style='font-size:9.0pt\;font-family:"Segoe UI Semilig
+	ht"\,sans-serif\;mso-ligatures:standardcontextual'>If you <span class=Gram
+	E>prefer</span> I not forward you these types of communications\, just let
+	 me know. To learn how to manage your contact preferences for other parts 
+	of Microsoft\, please read <span style='color:black'>our </span></span><sp
+	an style='mso-ligatures:standardcontextual'><a href="https://privacy.micro
+	soft.com/en-gb/privacystatement"><span style='font-size:9.0pt\;font-family
+	:"Segoe UI Semilight"\,sans-serif\;color:black'>Privacy Statement</span></
+	a></span><span style='font-size:9.0pt\;font-family:"Segoe UI Semilight"\,s
+	ans-serif\;color:black\;mso-ligatures:standardcontextual'>.</span><span st
+	yle='font-size:9.0pt\;font-family:"Segoe UI Semilight"\,sans-serif\;mso-li
+	gatures:standardcontextual'><o:p></o:p></span></p><p class=MsoNormal><span
+	 style='font-size:9.0pt\;font-family:"Segoe UI Semilight"\,sans-serif\;mso
+	-ligatures:standardcontextual'><o:p>&nbsp\;</o:p></span></p><p class=MsoNo
 	rmal><span style='font-size:9.0pt\;font-family:"Segoe UI Semilight"\,sans-
-	serif'>Microsoft Australia Pty Limited\, L24–30\, 1 Denison St\, North S
-	ydney NSW 2060 Australia<o:p></o:p></span></p></td></tr></table></td></tr>
-	</table></div><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>
-	<o:p>&nbsp\;</o:p></p><div><p class=MsoNormal><span style='color:#5F5F5F'>
-	__________________________________________________________________________
-	______</span> <o:p></o:p></p></div><div><div style='margin-top:.25in\;marg
-	in-bottom:15.0pt'><p class=MsoNormal><span lang=EN-NZ style='font-size:18.
-	0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:
-	EN-NZ'>Microsoft Teams meeting</span><span lang=EN-NZ style='font-family:"
-	Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'> <o:p></o:p
-	></span></p></div><div style='margin-bottom:15.0pt'><div><p class=MsoNorma
-	l><b><span lang=EN-NZ style='font-size:10.5pt\;font-family:"Segoe UI"\,san
-	s-serif\;color:#252424\;mso-ansi-language:EN-NZ'>Join on your computer\, m
-	obile app or room <span class=GramE>device</span></span></b><b><span lang=
-	EN-NZ style='font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-l
-	anguage:EN-NZ'> <o:p></o:p></span></b></p></div><p class=MsoNormal><span l
-	ang=EN-NZ style='font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-an
-	si-language:EN-NZ'><a href="https://teams.microsoft.com/l/meetup-join/19%3
-	ameeting_YmYxNTMyNDUtYmRjZC00NDJjLWI1NmMtNGVhN2Y0ZGJiOTM5%40thread.v2/0?co
-	ntext=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%2
-	2%3a%22395a309a-7b10-4aa8-83ab-4f4dbcf29616%22%7d" target="_blank"><span s
-	tyle='font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color
-	:#6264A7'>Click here to join the meeting</span></a> <o:p></o:p></span></p>
-	</div><div style='margin-top:15.0pt\;margin-bottom:15.0pt'><div style='mar
-	gin-bottom:3.0pt'><p class=MsoNormal><span lang=EN-NZ style='font-size:10.
-	5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:
-	EN-NZ'>Meeting ID: </span><span lang=EN-NZ style='font-size:12.0pt\;font-f
-	amily:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'>454 
-	682 726 451</span><span lang=EN-NZ style='font-size:10.5pt\;font-family:"S
-	egoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'> </span><spa
-	n lang=EN-NZ style='font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso
-	-ansi-language:EN-NZ'><br></span><span lang=EN-NZ style='font-size:10.5pt\
-	;font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-N
-	Z'>Passcode: </span><span class=SpellE><span lang=EN-NZ style='font-size:1
-	2.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-languag
-	e:EN-NZ'>NGrqZx</span></span><span lang=EN-NZ style='font-size:12.0pt\;fon
-	t-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'> 
-	</span><span lang=EN-NZ style='font-family:"Segoe UI"\,sans-serif\;color:#
-	252424\;mso-ansi-language:EN-NZ'><o:p></o:p></span></p><div><p class=MsoNo
-	rmal><span lang=EN-NZ style='font-size:10.5pt\;font-family:"Segoe UI"\,san
-	s-serif\;color:#252424\;mso-ansi-language:EN-NZ'><a href="https://www.micr
-	osoft.com/en-us/microsoft-teams/download-app" target="_blank"><span style=
-	'color:#6264A7'>Download Teams</span></a> | <a href="https://www.microsoft
-	.com/microsoft-teams/join-a-meeting" target="_blank"><span style='color:#6
-	264A7'>Join on the web</span></a><o:p></o:p></span></p></div></div></div><
-	div style='margin-bottom:3.0pt'><div style='margin-bottom:3.0pt'><p class=
-	MsoNormal><b><span lang=EN-NZ style='font-size:10.5pt\;font-family:"Segoe 
-	UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'>Or call in (audio
-	 only)</span></b><span lang=EN-NZ style='font-family:"Segoe UI"\,sans-seri
-	f\;color:#252424\;mso-ansi-language:EN-NZ'> <o:p></o:p></span></p></div><d
-	iv style='margin-bottom:3.0pt'><p class=MsoNormal><span lang=EN-NZ style='
-	font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ
-	'><a href="tel:+13238494874\,\,444340151# " target="_blank"><span style='f
-	ont-size:10.5pt\;color:#6264A7'>+1 323-849-4874\,\,444340151#</span></a> <
-	/span><span lang=EN-NZ style='font-size:10.5pt\;font-family:"Segoe UI"\,sa
-	ns-serif\;color:#252424\;mso-ansi-language:EN-NZ'>&nbsp\; United States\, 
-	Los Angeles </span><span lang=EN-NZ style='font-family:"Segoe UI"\,sans-se
-	rif\;color:#252424\;mso-ansi-language:EN-NZ'><o:p></o:p></span></p></div><
-	/div><p class=MsoNormal><span lang=EN-NZ style='font-size:10.5pt\;font-fam
-	ily:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'>Phone 
-	Conference ID: </span><span lang=EN-NZ style='font-size:12.0pt\;font-famil
-	y:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'>444 340 
-	151# </span><span lang=EN-NZ style='font-family:"Segoe UI"\,sans-serif\;co
-	lor:#252424\;mso-ansi-language:EN-NZ'><o:p></o:p></span></p><div style='ma
-	rgin-bottom:15.0pt'><p class=MsoNormal><span lang=EN-NZ style='font-family
-	:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-language:EN-NZ'><a href="
-	https://dialin.teams.microsoft.com/8551f4c1-bea3-441a-8738-69aa517a91c5?id
-	=444340151" target="_blank"><span style='font-size:10.5pt\;color:#6264A7'>
-	Find a local number</span></a> | <a href="https://dialin.teams.microsoft.c
-	om/usp/pstnconferencing" target="_blank"><span style='font-size:10.5pt\;co
-	lor:#6264A7'>Reset PIN</span></a> <o:p></o:p></span></p></div><div style='
-	margin-top:15.0pt\;margin-bottom:.25in'><p class=MsoNormal><span lang=EN-N
-	Z style='font-family:"Segoe UI"\,sans-serif\;color:#252424\;mso-ansi-langu
-	age:EN-NZ'><a href="https://aka.ms/JoinTeamsMeeting" target="_blank"><span
-	 style='font-size:10.5pt\;color:#6264A7'>Learn More</span></a> | <a href="
-	https://teams.microsoft.com/meetingOptions/?organizerId=395a309a-7b10-4aa8
-	-83ab-4f4dbcf29616&amp\;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp\
-	;threadId=19_meeting_YmYxNTMyNDUtYmRjZC00NDJjLWI1NmMtNGVhN2Y0ZGJiOTM5@thre
-	ad.v2&amp\;messageId=0&amp\;language=en-NZ" target="_blank"><span style='f
-	ont-size:10.5pt\;color:#6264A7'>Meeting options</span></a> <o:p></o:p></sp
-	an></p></div></div><div><p class=MsoNormal><span style='color:#5F5F5F'>___
-	__________________________________________________________________________
-	___</span> <o:p></o:p></p></div></div></div></div></div></div></div></div>
-	</div></div></div></div></body></html>
+	serif\;mso-ligatures:standardcontextual'>Microsoft Australia Pty Limited\,
+	 L24–30\, 1 Denison St\, North Sydney NSW 2060 Australia<o:p></o:p></spa
+	n></p></td></tr></table></td></tr></table></div><p class=MsoNormal><o:p>&n
+	bsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal
+	><o:p>&nbsp\;</o:p></p><p class=MsoNormal><span style='font-family:"Aptos"
+	\,sans-serif'><o:p>&nbsp\;</o:p></span></p><div><div><p class=MsoNormal><s
+	pan style='color:#5F5F5F'>________________________________________________
+	________________________________</span> <span style='font-size:12.0pt'><o:
+	p></o:p></span></p></div><div><div style='margin-top:.25in\;margin-bottom:
+	15.0pt'><p class=MsoNormal><span style='font-size:18.0pt\;font-family:"Seg
+	oe UI"\,sans-serif\;color:#252424'>Microsoft Teams meeting</span><span sty
+	le='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span>
+	</p></div><div style='margin-bottom:15.0pt'><div><p class=MsoNormal><b><sp
+	an style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252
+	424'>Join on your computer\, mobile app or room <span class=GramE>device</
+	span></span></b><b><span style='font-family:"Segoe UI"\,sans-serif\;color:
+	#252424'> <o:p></o:p></span></b></p></div><p class=MsoNormal><span style='
+	font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="https://aka.ms
+	/anzaicopilotspartnerforum/joinmeeting" target="_blank"><span style='font-
+	size:10.5pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#6264A7'>C
+	lick here to join the meeting</span></a> <o:p></o:p></span></p></div><div 
+	style='margin-top:15.0pt\;margin-bottom:15.0pt'><div style='margin-bottom:
+	3.0pt'><p class=MsoNormal><span style='font-size:10.5pt\;font-family:"Sego
+	e UI"\,sans-serif\;color:#252424'>Meeting ID: </span><span style='font-fam
+	ily:"Segoe UI"\,sans-serif\;color:#252424'>213 385 865 701</span><span sty
+	le='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'> 
+	</span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><br
+	></span><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\
+	;color:#252424'>Passcode: </span><span class=SpellE><span style='font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#252424'>cDkkgg</span></span><span style=
+	'font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></span></p
+	><div><p class=MsoNormal><span style='font-size:10.5pt\;font-family:"Segoe
+	 UI"\,sans-serif\;color:#252424'><a href="https://www.microsoft.com/en-us/
+	microsoft-teams/download-app" target="_blank"><span style='color:#6264A7'>
+	Download Teams</span></a> | <a href="https://www.microsoft.com/microsoft-t
+	eams/join-a-meeting" target="_blank"><span style='color:#6264A7'>Join on t
+	he web</span></a><o:p></o:p></span></p></div></div></div><div style='margi
+	n-bottom:3.0pt'><div style='margin-bottom:3.0pt'><p class=MsoNormal><b><sp
+	an style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252
+	424'>Or call in (audio only)</span></b><span style='font-family:"Segoe UI"
+	\,sans-serif\;color:#252424'> </span><span style='font-size:12.0pt\;font-f
+	amily:"Segoe UI"\,sans-serif\;color:#252424'><o:p></o:p></span></p></div><
+	div style='margin-bottom:3.0pt'><p class=MsoNormal><span style='font-famil
+	y:"Segoe UI"\,sans-serif\;color:#252424'><a href="tel:+13238494874\,\,7274
+	13709# "><span style='font-size:10.5pt\;color:#6264A7'>+1 323-849-4874\,\,
+	727413709#</span></a> </span><span style='font-size:10.5pt\;font-family:"S
+	egoe UI"\,sans-serif\;color:#252424'>&nbsp\; United States\, Los Angeles <
+	/span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><o:p
+	></o:p></span></p></div></div><p class=MsoNormal><span style='font-size:10
+	.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Phone Conference 
+	ID: </span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'
+	>727 413 709# <o:p></o:p></span></p><div style='margin-bottom:15.0pt'><p c
+	lass=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#252
+	424'><a href="https://dialin.teams.microsoft.com/8551f4c1-bea3-441a-8738-6
+	9aa517a91c5?id=727413709" target="_blank"><span style='font-size:10.5pt\;c
+	olor:#6264A7'>Find a local number</span></a> | <a href="https://dialin.tea
+	ms.microsoft.com/usp/pstnconferencing" target="_blank"><span style='font-s
+	ize:10.5pt\;color:#6264A7'>Reset PIN</span></a> <o:p></o:p></span></p></di
+	v><div style='margin-top:15.0pt\;margin-bottom:.25in'><p class=MsoNormal><
+	span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href="ht
+	tps://aka.ms/JoinTeamsMeeting" target="_blank"><span style='font-size:10.5
+	pt\;color:#6264A7'>Learn More</span></a> | <a href="https://teams.microsof
+	t.com/meetingOptions/?organizerId=395a309a-7b10-4aa8-83ab-4f4dbcf29616&amp
+	\;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp\;threadId=19_meeting_N
+	TBhOWQwZDUtOWYwOS00ZmU2LWFlMjItNDQ5ZTA1ZDllNTdh@thread.v2&amp\;messageId=0
+	&amp\;language=en-US" target="_blank"><span style='font-size:10.5pt\;color
+	:#6264A7'>Meeting options</span></a> <o:p></o:p></span></p></div></div></d
+	iv><div><p class=MsoNormal><span style='color:#5F5F5F'>___________________
+	_____________________________________________________________</span> <span
+	 style='font-family:"Aptos"\,sans-serif'><o:p></o:p></span></p></div><p cl
+	ass=MsoNormal><span style='font-family:"Aptos"\,sans-serif'><o:p>&nbsp\;</
+	o:p></span></p></div></body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-DISALLOW-COUNTER:TRUE
-X-MS-OLK-APPTLASTSEQUENCE:39
-X-MS-OLK-APPTSEQTIME:20231103T011845Z
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20231105T215220Z
 X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
