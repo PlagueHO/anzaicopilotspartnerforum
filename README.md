@@ -15,9 +15,7 @@ From 13 December 2024, these will be monthly.
 
 ### Presentations
 
-Here are the presentations from the ANZ AI &amp; Copilots Partner Forum: Drop-in office hours:
-
-- [Microsoft AI &amp; Copilots Partner Forum - Drop-in office hours - 2021-11-15](/resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2023-11-15.pptx)
+If you want a copy of a presentation from previous partner forum sessions, please e-mail the ANZ AI & Copilots partner team at [anzaicopilots@microsoft.com](anzaicopilots@microsoft.com).
 
 ## AI & Copilots Newsletters
 
