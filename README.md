@@ -13,9 +13,14 @@ From 13 December 2024, these will be monthly.
 - [Shared event calendar for the ANZ AI & Copilots Partner Forum](https://aka.ms/anzaicopilotspartnerforum/calendar)
 - [Ask a question or request a topic at the next ANZ AI & Copilots Partner Forum](https://aka.ms/anzaicopilotspartnerforum/questionform)
 
-### Presentations
+### Past Presentations
 
-If you want a copy of a presentation from previous partner forum sessions, please e-mail the ANZ AI & Copilots partner team at [anzaicopilots@microsoft.com](anzaicopilots@microsoft.com).
+You can find the presentations from past forum sessions here:
+
+- [2024-01-10](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-01-10.pdf)
+- [2023-12-13](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2023-12-13.pdf)
+- [2023-11-29](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2023-11-29.pdf)
+- [2023-11-15](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2023-11-15.pdf)
 
 ## AI & Copilots Newsletters
 
