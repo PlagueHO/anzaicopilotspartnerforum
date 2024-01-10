@@ -15,7 +15,7 @@ From 13 December 2024, these will be monthly.
 
 ### Past Presentations
 
-You can find the presentations from past forum sessions here:
+You can find the presentations from past forum sessions here. **We recommend downloading the PDF rather than displaying it in GitHub so that the links will be clickable.**
 
 - [2024-01-10](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-01-10.pdf)
 - [2023-12-13](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2023-12-13.pdf)
