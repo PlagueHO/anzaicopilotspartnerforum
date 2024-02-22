@@ -35,3 +35,4 @@ From 13 December 2024, these will be monthly.
 - [ANZ AI & Copilots Newsletter - 2023-11-16](/newsletters/Nov%2016%20-%20AI%20&%20Copilot%20News%20and%20Tips%20-%20Ignite%20Edition.oft)
 - [ANZ AI & Copilots Newsletter - 2023-12-07](/newsletters/Dec%207%20-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
 - [ANZ AI & Copilots Newsletter - 2024-01-25](/newsletters/Jan%2025%20-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
+- [ANZ AI & Copilots Newsletter - 2024-02-22](/newsletters/Feb%2022-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
