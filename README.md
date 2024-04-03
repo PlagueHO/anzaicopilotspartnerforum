@@ -17,6 +17,7 @@ From 13 December 2024, these will be monthly.
 
 You can find the presentations from past forum sessions here. **We recommend downloading the PDF rather than displaying it in GitHub so that the links will be clickable.**
 
+- [2024-04-03](resourced/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-04-03.pdf)
 - [2024-03-06](resourced/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-03-06.pdf)
 - [2024-02-07](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-02-07.pdf)
 - [2024-01-10](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-01-10.pdf)
@@ -37,3 +38,4 @@ From 13 December 2024, these will be monthly.
 - [ANZ AI & Copilots Newsletter - 2023-12-07](/newsletters/Dec%207%20-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
 - [ANZ AI & Copilots Newsletter - 2024-01-25](/newsletters/Jan%2025%20-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
 - [ANZ AI & Copilots Newsletter - 2024-02-22](/newsletters/Feb%2022-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
+- [ANZ AI & Copilots Newsletter - 2024-03-20](/newsletters/Mar%2020%20-%20AI%20&%20Copilot%20News%20and%20Tips.oft)
