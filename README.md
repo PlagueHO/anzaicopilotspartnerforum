@@ -17,6 +17,7 @@ From 13 December 2024, these will be monthly.
 
 You can find the presentations from past forum sessions here. **We recommend downloading the PDF rather than displaying it in GitHub so that the links will be clickable.**
 
+- [2024-05-29](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-05-29.pdf)
 - [2024-05-09- Copilot & AI Overview - The right tool for the job](resources/Copilot.&.AI.Overview.-.The.right.tool.for.the.job.-.May.2024.pdf)
 - [2024-04-03](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-04-03.pdf)
 - [2024-03-06](resources/ANZ.AI.and.Copilots.Partner.Forum.Drop.in.office.hours.2024-03-06.pdf)
